@@ -1,5 +1,5 @@
 # Steps To Run This Program 
-1-	Make Sure You Have Git Installed In Your System
+1-	Make Sure You Have Git Installed In Your System \n
 2-	Make Sure You Run This In Kali Linux Or Parrot OS
 3-	Make Sure You Don’t Delete Lib Folder as It’s Essential For Program To Run
 4-	Open Terminal & Type 
